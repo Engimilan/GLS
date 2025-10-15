@@ -21,10 +21,7 @@ namespace glsfutar
             }
             sr.Close();
 
-            foreach (var item in datas)
-            {
-                Console.WriteLine(item.Nev);
-            }
+            Console.WriteLine($"Az autó használatában töltött napjainak száma: {datas.Count}");
         }
     }
 }

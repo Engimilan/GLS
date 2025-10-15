@@ -1,0 +1,2 @@
+U:\12\teszteles\gls\glsfutar\glsfutar\obj\Debug\glsfutar.csproj.AssemblyReference.cache
+U:\12\teszteles\gls\glsfutar\glsfutar\obj\Debug\glsfutar.csproj.CoreCompileInputs.cache

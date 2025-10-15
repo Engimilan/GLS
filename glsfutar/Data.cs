@@ -8,11 +8,11 @@ namespace glsfutar
 {
     internal class Data
     {
-        public DateTime Datum { get; set; }
-        public string Nev { get; set; }
-        public int km { get; set; } 
-        public int csomag { get; set; }
-        public int fogy { get; set; }
+        public DateTime Datum { get; }
+        public string Nev { get;  }
+        public int km { get;  } 
+        public int csomag { get;  }
+        public int fogy { get; }
 
         public Data(string sor)
         {
